@@ -1,4 +1,4 @@
-# Результаты:
+# Результаты 1 задания (3 вар):
 
 
 
@@ -18,6 +18,39 @@
 
 
 ![image](https://github.com/user-attachments/assets/6d55b2ac-0c2c-47b0-8829-06ee90e06f30)
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Результаты 2 задания (3 вар):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7ec2dffb-b8ce-4a2a-8660-b0a466c97727)
 
 
 
